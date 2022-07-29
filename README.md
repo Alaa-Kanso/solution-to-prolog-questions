@@ -6,4 +6,4 @@ another answer it's ok!<br>
 I will try to include my thought process with each answer.<br>
 
 <h2>Questions:</h2><br>
-- <b>occus</b> : Define a predicate occurs(L,N,X) that succeeds if and only if X is the element occurring in position N of the list L.
+- <b><a href="./occurs">occurs</a></b> : Define a predicate occurs(L,N,X) that succeeds if and only if X is the element occurring in position N of the list L.
